@@ -1,10 +1,12 @@
-{
-    "id": "1",
-    "title": "New Songs Added!",
-    "description": "50 new songs with chords!",
-    "date": "Apr 07, 2026",
-    "imageSystemName": "sparkles",
-    "imageURL": null,
-    "category": "Release",
-    "link": null
-}
+[
+    {
+        "id": "1",
+        "title": "New Songs Added!",
+        "description": "50 new songs with chords!",
+        "date": "Apr 07, 2026",
+        "imageSystemName": "sparkles",
+        "imageURL": null,
+        "category": "Release",
+        "link": null
+    }
+]
