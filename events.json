@@ -1,6 +1,6 @@
 [
     {
-        "id": "1",
+        "id": "5",
         "title": "Welcome to Sinhala Chords Events!",
         "description": "Stay tuned for upcoming music events, workshops, and announcements. We'll notify you when new events are posted!",
         "date": "Apr 8, 2026",
@@ -9,24 +9,4 @@
         "category": "News",
         "link": null
     },
-    {
-        "id": "2",
-        "title": "New Update 2",
-        "description": "Sinhala And Singlish Support",
-        "date": "Apr 10, 2026",
-        "imageSystemName": "music.mic",
-        "imageURL": "https://raw.githubusercontent.com/rapstashehan/sinhala-chords-events/main/images/new.png",
-        "category": "Update",
-        "link": null
-    },
-    {
-        "id": "3",
-        "title": "New Update 4",
-        "description": "Sinhala And Singlish Support",
-        "date": "Apr 10, 2026",
-        "imageSystemName": "music.mic",
-        "imageURL": "https://raw.githubusercontent.com/rapstashehan/sinhala-chords-events/main/images/new.png",
-        "category": "Update",
-        "link": null
-    }
 ]
