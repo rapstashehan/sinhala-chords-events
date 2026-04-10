@@ -28,5 +28,15 @@
         "imageURL": "https://raw.githubusercontent.com/rapstashehan/sinhala-chords-events/main/images/new.png",
         "category": "Update",
         "link": null
+    },
+    {
+        "id": "4",
+        "title": "New Update 4",
+        "description": "Sinhala And Singlish Support",
+        "date": "Apr 10, 2026",
+        "imageSystemName": "music.mic",
+        "imageURL": "https://raw.githubusercontent.com/rapstashehan/sinhala-chords-events/main/images/new.png",
+        "category": "Update",
+        "link": null
     }
 ]
