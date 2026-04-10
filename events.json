@@ -9,4 +9,14 @@
         "category": "Release",
         "link": null
     }
+    {
+        "id": "2",
+        "title": "New Update",
+        "description": "සිංහල & Singlish පහසුව: දැන් හැම සිංදුවක්ම Singlish වලින් කියවන්න පුළුවන්. (Dual Language Support)",
+        "date": "Apr 10, 2026",
+        "imageSystemName": "music.mic",
+        "imageURL": "https://raw.githubusercontent.com/rapstashehan/sinhala-chords-events/main/images/new.png",
+        "category": "Update",
+        "link": null
+    }
 ]
