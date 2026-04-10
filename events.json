@@ -1,16 +1,6 @@
 [
     {
         "id": "1",
-        "title": "New Songs Added!",
-        "description": "50 new songs with chords!",
-        "date": "Apr 07, 2026",
-        "imageSystemName": "sparkles",
-        "imageURL": null,
-        "category": "Release",
-        "link": null
-    }
-    {
-        "id": "2",
         "title": "New Update",
         "description": "සිංහල & Singlish පහසුව: දැන් හැම සිංදුවක්ම Singlish වලින් කියවන්න පුළුවන්. (Dual Language Support)",
         "date": "Apr 10, 2026",
