@@ -1,6 +1,16 @@
 [
     {
         "id": "1",
+        "title": "Welcome to Sinhala Chords Events!",
+        "description": "Stay tuned for upcoming music events, workshops, and announcements. We'll notify you when new events are posted!",
+        "date": "Apr 7, 2026",
+        "imageSystemName": "hand.wave.fill",
+        "imageURL": null,
+        "category": "News",
+        "link": null
+    },
+    {
+        "id": "2",
         "title": "New Update",
         "description": "Sinhala And Singlish Support",
         "date": "Apr 10, 2026",
