@@ -1,0 +1,15 @@
+{
+  "featuredEventId": "8",
+  "events": [
+    {
+      "id": "8",
+      "title": "Hada Gahena By Themiya Thejan",
+      "description": "Sinhala And Singlish Support",
+      "date": "Apr 10, 2026",
+      "imageSystemName": "music.mic",
+      "imageURL": "https://raw.githubusercontent.com/rapstashehan/sinhala-chords-events/main/images/new.png",
+      "category": "Release",
+      "link": "https://youtu.be/MaA1qLkUXEo?si=gb3ePtxpG9wrZ-O6"
+    }
+  ]
+}
